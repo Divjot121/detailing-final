@@ -1,0 +1,16 @@
+{
+  "name": "absolute-car-detail",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite --host 127.0.0.1" },
+  "dependencies": {
+    "@radix-ui/react-popover": "^1.1.15",
+    "@radix-ui/react-select": "^2.3.7",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-day-picker": "^9.7.0",
+    "react-dom": "^18.3.1",
+    "vite": "^6.0.5"
+  }
+}
